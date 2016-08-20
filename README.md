@@ -1,9 +1,10 @@
 # 马走田
 
-参考自 [码志 &rarr;](http://mazhuang.org) 和 [DONGChuan](http://dongchuan.github.io)
+参考自 [码志](http://mazhuang.org) 和 [DONGChuan](http://dongchuan.github.io)
 
 详见：
         <http://github.com/mzlogin/mzlogin.github.io/blob/master/README.md>
+		<BR>
         <http://github.com/DONGChuan/DONGChuan.github.io>
 
 ## 致谢
